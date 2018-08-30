@@ -5,7 +5,7 @@ For the chat server
 
 
 
-
+---------------------------------------------------------
 Specs.
 Chatty(?):
 1. Description:
@@ -53,3 +53,16 @@ All users can access chat history with simple command. Once the user is done, he
    - Kristofer Knutsen
    - Hung Nguyen 
    - Son Bui
+   
+   ---------------------------------------------------------
+   ---------------------------------------------------------
+   ---------------------------------------------------------
+   
+   General observations:
+   
+   Disconnect and kicked messages
+   Cases of commands misusage (If commands are correct but used in different)
+   Name duplications exceptions ()
+   What happens when commands are executed
+   Remove :user command when logged in server already, maybe impement :changename command
+   
