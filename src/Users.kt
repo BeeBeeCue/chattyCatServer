@@ -1,18 +1,23 @@
 object Users {
 
-    fun InsertingUsername(){
+    fun InsertingUsername()
+    {
+
 
     }
 
-    fun removingUsername(){
+    fun removingUsername()
+    {
 
     }
 
-    fun checkUsernameExist(){
+    fun checkUsernameExist()
+    {
 
     }
 
-    override fun toString(): String {
+    override fun toString(): String
+    {
         return super.toString()
     }
 }

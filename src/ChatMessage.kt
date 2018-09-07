@@ -1,4 +1,5 @@
-class ChatMessage {
+class ChatMessage
+{
     constructor()
 
     override fun toString(): String{

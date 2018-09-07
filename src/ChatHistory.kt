@@ -1,9 +1,13 @@
-object ChatHistory {
+object ChatHistory
+{
 
-    fun insert(message: ChatMessage){
+    fun insert(message: ChatMessage)
+    {
 
     }
-    override fun toString(): String {
+
+    override fun toString(): String
+    {
         return super.toString()
     }
 }
